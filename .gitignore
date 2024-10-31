@@ -163,3 +163,5 @@ cython_debug/
 
 /tensorflow-tutorials/tensorflow_convolutional_neural_nets/images/hot_dog
 /tensorflow-tutorials/tensorflow_convolutional_neural_nets/images/pizza
+/transfer-learning-with-tensorflow/images
+/transfer-learning-with-tensorflow/images2
